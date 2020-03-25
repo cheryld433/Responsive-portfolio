@@ -1,0 +1,1 @@
+This was a project in responsive design. Using Bootstrap, I created a website using flexible layouts and images. The website is able to detect the users screen size and adjust accordingly while maintaining the websites user friendliness. This was achieved with the use of a collapsible navbar, responsive images, responsive grids.
