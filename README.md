@@ -20,7 +20,7 @@ This was a project in responsive design. Using Bootstrap, I created a website us
 ## Installation:
 none
 
-## Usage:
-![demo](assets//image/demo.png)
+<!-- ## Usage:
+![demo](Unit-02-CSS-Bootstrap/02-Homework/responsive-portfolio/Responsive-portfolio/Assets/Images/responsive-portfolio.jpg) -->
 
 
