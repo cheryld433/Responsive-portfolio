@@ -21,6 +21,6 @@ This was a project in responsive design. Using Bootstrap, I created a website us
 none
 
 ## Usage:
-![demo](assets/demo.png)
+![demo](assets//image/demo.png)
 
 
